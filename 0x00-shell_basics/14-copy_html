@@ -1,2 +1,2 @@
-task 14.
 #!/bin/bash
+cp -rua *.html ../
